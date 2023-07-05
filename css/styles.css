@@ -1,23 +1,22 @@
-body{
-    background-color: #1d1d1d;
+body {
+  background-color: #1d1d1d;
+}
+body p {
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+body h1 {
+  color: #166014;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
-
-h1 {
-    color:green;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.altoyancho{
-    width: 642px;
-    height: 350px;
-}
-p{
-    font-family: 'Roboto', sans-serif;
-    color: white;
+.altoyancho {
+  width: 642px;
+  height: 350px;
 }
 
-h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(245, 197, 24)
-    
+a:hover {
+  color: #166014;
 }
+
+/*# sourceMappingURL=styles.css.map */
