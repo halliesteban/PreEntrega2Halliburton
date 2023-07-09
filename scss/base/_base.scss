@@ -1,0 +1,20 @@
+body {
+    background-color: #1d1d1d;
+    p {
+        color: white;
+        font-family: 'Roboto', sans-serif;
+    }
+    h1 {
+        color: #166014;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+}
+.altoyancho {
+    width: 642px;
+    height: 350px;
+} 
+a{
+    &:hover{
+        background-color: #166014;
+    }
+}
