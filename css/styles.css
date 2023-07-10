@@ -6,7 +6,7 @@ body p {
   font-family: "Roboto", sans-serif;
 }
 body h1 {
-  color:
+  color: #166014;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
@@ -19,5 +19,3 @@ a:hover {
     background-color: #166014;
     color: lightgreen;
 }
-
-/*# sourceMappingURL=styles.css.map */

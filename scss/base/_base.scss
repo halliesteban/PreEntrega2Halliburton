@@ -1,12 +1,12 @@
 body {
     background-color: #1d1d1d;
     p {
-        color: white;
-        font-family: 'Roboto', sans-serif;
+        color: $color-p;
+        font-family: $font-p
     }
     h1 {
         color: $color-title;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: $font-t
     }
 }
 .altoyancho {
